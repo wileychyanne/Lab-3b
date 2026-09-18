@@ -1,0 +1,6 @@
+Student        Test1 Test2 Test3 Test4 Test 5 Average
+Michael Johnson 85   92     78     88    95    87.60
+Sarah Williams 90    84     91    87    93     89.00
+Chyanne Wiley  90    81     64    79    53    73.40
+Angel Reese    100   94    73    45    55    73.40
+Carl Junior    59    34    45    96    69    60.60
